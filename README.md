@@ -1,6 +1,6 @@
 # Movies-Demo
 
-A simple demonstration of Android MVVM architecture with the latest libraries and tech stack.
+A simple demonstration of Android MVVM architecture with the latest libraries and tech stack. The sample code contains the functionality to show list of movies with detail. It also has feature of dark theme and light theme.
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
